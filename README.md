@@ -101,11 +101,11 @@ Deep-dive notebooks for additional exploration:
 
 ## About the Instructor
 
-**Prachi Patel, PhD**
+**Prachi Patel, PhD, Columbia University**
 
-Prachi bridges neuroscience research, industry AI, and education. Her PhD applied machine learning to human speech processing (publications in *Current Biology*, *Journal of Neuroscience*, *Cell Reports*). Her industry career spans Amazon, Microsoft, Splunk/Cisco, and Lightbird (5 patents across wearable AI, empathetic LLMs, conversational AI, and agentic security). She is an incoming Senior Applied Scientist on the GitHub Copilot team at Microsoft.
+Prachi bridges neuroscience research, industry AI, and education. Her PhD applied machine learning to human speech processing (publications in *Current Biology*, *Journal of Neuroscience*, *Cell Reports*). Her industry career spans Amazon, Microsoft and Splunk/Cisco (5 patents across wearable AI, empathetic LLMs, conversational AI, and agentic security). She is a Senior Applied Scientist on the GitHub Copilot team at Microsoft.
 
-She has taught at the university level since 2017 and was selected as Lead Teaching Fellow among the doctoral cohort. Through the BRAINyac program, she develops AI curriculum for high school students from underserved communities.
+She has taught at the university level since 2017 and was selected as Lead Teaching Fellow among the Columbia University doctoral cohort. Through the BRAINyac program, she develops AI curriculum for high school students from underserved communities.
 
 ---
 
