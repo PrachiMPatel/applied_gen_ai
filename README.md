@@ -2,23 +2,23 @@
 
 ### Graduate Course | Applied Generative AI
 
-**A course that treats evaluation and responsible AI as first-class engineering disciplines — not afterthoughts.**
+**A course that treats evaluation and responsible AI as first-class engineering disciplines and not afterthoughts.**
 
 ---
 
 ## Why This Course Exists
 
-Most generative AI courses teach students to build systems. This one teaches them to **evaluate, govern, and know when not to deploy them**. The gap in AI education is not technical skill — it is judgment.
+Most generative AI courses teach students to build systems. This one teaches them to **evaluate, govern, and know when not to deploy them**. The gap in AI education is not technical skill, it is judgment.
 
 ---
 
 ## Three Pillars
 
 ### 1. Evaluation-First Pedagogy
-Week 9 is dedicated entirely to LLM evaluation: automated metrics, human evaluation design, and LLM-as-a-judge frameworks. Students don't just build systems — they build the tools to measure whether those systems should be trusted.
+Week 9 is dedicated entirely to LLM evaluation: automated metrics, human evaluation design, and LLM-as-a-judge frameworks. Students don't just build systems, instead, they build the tools to measure whether those systems should be trusted.
 
 ### 2. Responsible AI as a Continuous Thread
-Every weekly lab includes a Responsible AI reflection connecting technical work to societal impact. This is not a standalone ethics lecture — it is woven into every module from tokenization to multi-agent systems.
+Every weekly lab includes a Responsible AI reflection connecting technical work to societal impact. This is not a standalone ethics lecture but it is woven into every module from tokenization to multi-agent systems.
 
 ### 3. The Judgment Memo
 Weighted at 20% (equal to the Midterm), this assessment asks students to defend the deployment boundaries of their system and articulate where they would choose *not* to deploy it. Knowing the limits of a system is valued as highly as building it.
@@ -58,16 +58,8 @@ Every notebook runs on Google Colab with no setup required.
 3. Run cells sequentially
 4. Complete the exercises and Responsible AI reflections
 
-### For Instructors
 
-This curriculum is designed to be forked and adapted.
-
-1. Read the [Instructor Adaptation Guide](INSTRUCTOR_GUIDE.md) for module dependencies and pacing options
-2. Review the [full syllabus](syllabus.md) for assessment philosophy and grading
-3. Fork the repository
-4. Customize datasets, rubrics, and the Judgment Memo for your domain
-
-**Pacing options:** 15-week semester, 8-week intensive, or 4-week workshop. See the [Instructor Guide](INSTRUCTOR_GUIDE.md) for details.
+**Pacing options:** 15-week semester, 8-week intensive, or 4-week workshop.
 
 ---
 
