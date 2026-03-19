@@ -77,20 +77,6 @@ Every notebook runs on Google Colab with no setup required.
 
 ---
 
-## Supplementary Materials
-
-Deep-dive notebooks for additional exploration:
-
-| Notebook | Topic | Supports |
-|----------|-------|----------|
-| [Probability Foundations](notebooks/supplementary/Supplementary_Probability_Foundations.ipynb) | Bayesian reasoning, posterior updates | Week 1 |
-| [Word Sampling & N-grams](notebooks/supplementary/Supplementary_Word_Sampling_Ngrams.ipynb) | Bigram models, text generation | Week 1 |
-| [Word Embeddings](notebooks/supplementary/Supplementary_Word_Embeddings.ipynb) | spaCy embeddings, similarity | Week 1 |
-| [Transformer/GPT from Scratch](notebooks/supplementary/Supplementary_Transformer_GPT_From_Scratch.ipynb) | Full GPT implementation in PyTorch | Week 1 |
-| [Seq2Seq Translation](notebooks/supplementary/Supplementary_Seq2Seq_Translation.ipynb) | T5 translation pipeline | Week 6 |
-
----
-
 ## About the Instructor
 
 **Prachi Patel, PhD, Columbia University**
