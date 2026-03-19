@@ -1,0 +1,62 @@
+# Applied Generative AI - Course Dependencies
+# All notebooks are designed to run on Google Colab (free tier)
+# Install with: pip install -r requirements.txt
+
+# Core ML/DL
+torch>=2.1.0
+transformers>=4.36.0
+datasets>=2.16.0
+accelerate>=0.25.0
+tokenizers>=0.15.0
+sentencepiece>=0.1.99
+
+# Parameter-Efficient Fine-Tuning
+peft>=0.7.0
+bitsandbytes>=0.41.0
+
+# Embeddings and Vector Search
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+chromadb>=0.4.0
+
+# LangChain / Agentic Frameworks
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.5
+langgraph>=0.0.20
+
+# LLM APIs
+openai>=1.6.0
+anthropic>=0.8.0
+google-generativeai>=0.3.0
+tiktoken>=0.5.0
+
+# Evaluation
+rouge-score>=0.1.2
+bert-score>=0.3.13
+ragas>=0.1.0
+
+# Experiment Tracking
+wandb>=0.16.0
+
+# NLP Utilities
+spacy>=3.7.0
+nltk>=3.8.0
+
+# Visualization and Utilities
+matplotlib>=3.8.0
+seaborn>=0.13.0
+pandas>=2.1.0
+numpy>=1.26.0
+tqdm>=4.66.0
+ipywidgets>=8.1.0
+
+# Web Search (for research agent labs)
+tavily-python>=0.3.0
+
+# Multimodal
+Pillow>=10.0.0
+librosa>=0.10.0
+
+# Notebook Rendering
+IPython>=8.0.0
